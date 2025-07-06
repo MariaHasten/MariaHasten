@@ -1,4 +1,8 @@
-## Hi there 👋
+Ola eu sou Maria
+
+🎓 Estudante de Ti  
+📫 Contato: 0001152068@senaimgaluno.com.br
+🌱 Atualmente aprendendo: JavaScript, VS Code
 
 <!--
 **MariaHasten/MariaHasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
