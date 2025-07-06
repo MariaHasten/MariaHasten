@@ -1,7 +1,9 @@
 Ola eu sou Maria
 
 🎓 Estudante de Ti  
+
 📫 Contato: 0001152068@senaimgaluno.com.br
+
 🌱 Atualmente aprendendo: JavaScript, VS Code
 
 <!--
